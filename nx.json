@@ -1,4 +1,6 @@
 {
+  "nxCloudAccessToken": "MWY5OTliOTEtZGRhMy00MmYyLWFiMTktMjZiOGM3MDZlZDdlfHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202",
   "extends": "nx/presets/npm.json",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "targetDefaults": {
