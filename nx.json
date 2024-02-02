@@ -1,6 +1,4 @@
 {
-  "nxCloudAccessToken": "MWY5OTliOTEtZGRhMy00MmYyLWFiMTktMjZiOGM3MDZlZDdlfHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "http://localhost:4202",
   "extends": "nx/presets/npm.json",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "targetDefaults": {
@@ -13,5 +11,7 @@
     "lint": {
       "cache": true
     }
-  }
+  },
+  "nxCloudAccessToken": "MmEzNjJlODktODFjMy00YjM0LTg0ZDUtOTRkZmZmNWE1MmY1fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "https://staging.nx.app/"
 }
