@@ -4,14 +4,10 @@
   "targetDefaults": {
     "build": {
       "cache": true,
-      "dependsOn": [
-        "^build"
-      ]
+      "dependsOn": ["^build"]
     },
     "lint": {
       "cache": true
     }
-  },
-  "nxCloudAccessToken": "MmEzNjJlODktODFjMy00YjM0LTg0ZDUtOTRkZmZmNWE1MmY1fHJlYWQtd3JpdGU=",
-  "nxCloudUrl": "https://staging.nx.app/"
+  }
 }
