@@ -4,10 +4,14 @@
   "targetDefaults": {
     "build": {
       "cache": true,
-      "dependsOn": ["^build"]
+      "dependsOn": [
+        "^build"
+      ]
     },
     "lint": {
       "cache": true
     }
-  }
+  },
+  "nxCloudAccessToken": "MTIwNDU2MDQtNzk4Ny00OWI0LTk3ZGUtMmZmNjBmMzMxYjQ4fHJlYWQtd3JpdGU=",
+  "nxCloudUrl": "http://localhost:4202"
 }
